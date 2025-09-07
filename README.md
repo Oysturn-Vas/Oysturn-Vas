@@ -1,8 +1,6 @@
 # Hi there, I'm Oysturn! 👋
 
-# 💫 About Me:
 🎓 Masters in Computer Engineering at University of Waterloo<br><br>💻 Full-Stack Developer passionate about building scalable systems and AI-powered solutions<br><br>What I'm working on<br>🚀 Building enterprise-grade backends with NestJS, AWS, and MongoDB<br>🤖 Integrating AI voice technologies and conversational AI into production systems<br>🔬 Applying Machine Learning to accelerate chip design and EDA workflows<br>⛓️ Exploring blockchain and IoT for next-gen distributed systems<br><br>Tech Stack<br>Backend: Node.js, NestJS, PHP, Python<br>Cloud: AWS (EC2, Lambda, CloudFront, RDS, S3), Redis, WebSockets<br>AI/ML: TensorFlow, XGBoost, LightGBM, Anthropic API, ElevenLabs<br>Databases: MongoDB, MySQL, PostgreSQL<br>Other: Docker, CI/CD, Blockchain (Hyperledger Fabric), IoT
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oysturn-vas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:oysturnxvas@gmail.com) 
